@@ -26,9 +26,9 @@ table th:first-of-type {
 | 语言 | 熟练度 |
 |---:|:---|
 |PHP|★★★★★|
-|JavaScript|★★★★|
-|Python|★★★|
-|Golang|★|
+|JavaScript|★★★★☆|
+|Python|★★★☆☆|
+|Golang|★☆☆☆☆|
 
 1. 网站开发：
     略懂前端，常常瞎折腾 css+js，喜欢后端，通常使用 PHP

@@ -68,4 +68,11 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+- type: git
+  repo: https://github.com/NeilyoSummer/neilyosummer.github.io.git
+  branch: master
+
+archive_generator:
+  per_page: 20
+  yearly: true
+  monthly: true

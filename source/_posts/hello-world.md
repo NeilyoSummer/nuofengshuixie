@@ -1,38 +1,22 @@
 ---
 title: Hello World
+categories: 默认分类
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+2017年，**诺风**我又重新开始写blog了。
 
-## Quick Start
+国际惯例的开场"Hello World"。以后这里会分享很多不同种类的东西。
+不是因为时间多，而是记录下生活，学习，工作的轨迹。
 
-### Create a new post
+**至于尺度嘛你们猜！**
+**至于尺度嘛你们猜！**
+**至于尺度嘛你们猜！**
 
-``` bash
-$ hexo new "My New Post"
-```
+反正我尺度挺大的，大部分玩笑可以开，大部分话题可以聊，大部分活动可以做。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+让自己若干年后可以回头看看，原来自己是真真实实的存在过。
 
-### Run server
+太久没动过笔了，以前洋洋洒洒的几千字一去不复返，现在只能靠空格回车先骗骗字数，反正你们免费看又不收钱，就别太挑刺了。老子今年准备学习摄影，这里会有很多老夫的学习笔记，包括单反使用，Snapseed，Facetune等后期处理APP的使用，希望大家会喜欢。
 
-``` bash
-$ hexo server
-```
+2017年，鸡年打鸡血我们一起飞~
 
-More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
