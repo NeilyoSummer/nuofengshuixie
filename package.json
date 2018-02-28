@@ -18,6 +18,7 @@
     "hexo-server": "^0.2.0"
   },
   "scripts": {
-    "server": "hexo server"
+    "server": "hexo server",
+    "deploy": "hexo generate --deploy"
   }
 }
