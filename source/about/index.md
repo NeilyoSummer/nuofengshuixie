@@ -33,7 +33,9 @@ table th:first-of-type {
 1. 网站开发：
     略懂前端，常常瞎折腾 css+js，喜欢后端，通常使用 PHP
 2. Python || Node.js 写写爬虫
-3. Vue.js捣鼓网站后台
+3. Vue.js捣鼓后台
+4. React.js捣鼓后台
+5. 小程序开发
 
 #### 生活中的我
 1. 喜欢玩游戏：LOL，FIFA，及各种虐心小游戏；
